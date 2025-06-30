@@ -1,0 +1,14 @@
+C:\COS20007\Projects\ShapeDrawer\bin\Debug\net9.0\ShapeDrawer.exe
+C:\COS20007\Projects\ShapeDrawer\bin\Debug\net9.0\ShapeDrawer.deps.json
+C:\COS20007\Projects\ShapeDrawer\bin\Debug\net9.0\ShapeDrawer.runtimeconfig.json
+C:\COS20007\Projects\ShapeDrawer\bin\Debug\net9.0\ShapeDrawer.dll
+C:\COS20007\Projects\ShapeDrawer\bin\Debug\net9.0\ShapeDrawer.pdb
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.AssemblyInfo.cs
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.dll
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\refint\ShapeDrawer.dll
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.pdb
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ShapeDrawer.genruntimeconfig.cache
+C:\COS20007\Projects\ShapeDrawer\obj\Debug\net9.0\ref\ShapeDrawer.dll

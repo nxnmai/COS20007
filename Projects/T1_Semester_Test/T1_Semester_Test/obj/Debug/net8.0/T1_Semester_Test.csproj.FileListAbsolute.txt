@@ -1,0 +1,14 @@
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\bin\Debug\net8.0\T1_Semester_Test.exe
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\bin\Debug\net8.0\T1_Semester_Test.deps.json
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\bin\Debug\net8.0\T1_Semester_Test.runtimeconfig.json
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\bin\Debug\net8.0\T1_Semester_Test.dll
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\bin\Debug\net8.0\T1_Semester_Test.pdb
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.AssemblyInfoInputs.cache
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.AssemblyInfo.cs
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.dll
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\refint\T1_Semester_Test.dll
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.pdb
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\T1_Semester_Test.genruntimeconfig.cache
+C:\COS20007\Projects\T1_Semester_Test\T1_Semester_Test\obj\Debug\net8.0\ref\T1_Semester_Test.dll

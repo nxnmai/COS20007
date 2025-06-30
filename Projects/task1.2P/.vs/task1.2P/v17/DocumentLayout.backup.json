@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\COS20007\\Projects\\task1.2P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B95AE6-234A-43C4-AB6D-FB6D7AAC8971}|task1.2P\\task1.2P.csproj|c:\\cos20007\\projects\\task1.2p\\task1.2p\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B95AE6-234A-43C4-AB6D-FB6D7AAC8971}|task1.2P\\task1.2P.csproj|solutionrelative:task1.2p\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B95AE6-234A-43C4-AB6D-FB6D7AAC8971}|task1.2P\\task1.2P.csproj|c:\\cos20007\\projects\\task1.2p\\task1.2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B95AE6-234A-43C4-AB6D-FB6D7AAC8971}|task1.2P\\task1.2P.csproj|solutionrelative:task1.2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\task1.2P\\task1.2P\\Program.cs",
+              "RelativeDocumentMoniker": "task1.2P\\Program.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\task1.2P\\task1.2P\\Program.cs",
+              "RelativeToolTip": "task1.2P\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:52:57.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\task1.2P\\task1.2P\\Message.cs",
+              "RelativeDocumentMoniker": "task1.2P\\Message.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\task1.2P\\task1.2P\\Message.cs",
+              "RelativeToolTip": "task1.2P\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:19:29.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

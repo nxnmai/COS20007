@@ -1,0 +1,14 @@
+C:\COS20007\Projects\DrawProgram\bin\Debug\net9.0\DrawProgram.exe
+C:\COS20007\Projects\DrawProgram\bin\Debug\net9.0\DrawProgram.deps.json
+C:\COS20007\Projects\DrawProgram\bin\Debug\net9.0\DrawProgram.runtimeconfig.json
+C:\COS20007\Projects\DrawProgram\bin\Debug\net9.0\DrawProgram.dll
+C:\COS20007\Projects\DrawProgram\bin\Debug\net9.0\DrawProgram.pdb
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.AssemblyInfoInputs.cache
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.AssemblyInfo.cs
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.dll
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\refint\DrawProgram.dll
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.pdb
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\DrawProgram.genruntimeconfig.cache
+C:\COS20007\Projects\DrawProgram\obj\Debug\net9.0\ref\DrawProgram.dll

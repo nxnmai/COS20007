@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\COS20007\\Projects\\Clock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|c:\\cos20007\\projects\\clock\\clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|c:\\cos20007\\projects\\clock\\clock\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFF6582-1211-4CEC-84E1-7925FD7AB252}|Clock.Test\\Clock.Test.csproj|c:\\cos20007\\projects\\clock\\clock.test\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFF6582-1211-4CEC-84E1-7925FD7AB252}|Clock.Test\\Clock.Test.csproj|solutionrelative:clock.test\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFF6582-1211-4CEC-84E1-7925FD7AB252}|Clock.Test\\Clock.Test.csproj|c:\\cos20007\\projects\\clock\\clock.test\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFF6582-1211-4CEC-84E1-7925FD7AB252}|Clock.Test\\Clock.Test.csproj|solutionrelative:clock.test\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|c:\\cos20007\\projects\\clock\\clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Clock\\Clock.Test\\ClockTest.cs",
+              "RelativeDocumentMoniker": "Clock.Test\\ClockTest.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Clock\\Clock.Test\\ClockTest.cs",
+              "RelativeToolTip": "Clock.Test\\ClockTest.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:46:22.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterTest.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Clock\\Clock.Test\\CounterTest.cs",
+              "RelativeDocumentMoniker": "Clock.Test\\CounterTest.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Clock\\Clock.Test\\CounterTest.cs",
+              "RelativeToolTip": "Clock.Test\\CounterTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:28:55.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Clock\\Clock\\Program.cs",
+              "RelativeDocumentMoniker": "Clock\\Program.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Clock\\Clock\\Program.cs",
+              "RelativeToolTip": "Clock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:22:25.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Clock\\Clock\\Counter.cs",
+              "RelativeDocumentMoniker": "Clock\\Counter.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Clock\\Clock\\Counter.cs",
+              "RelativeToolTip": "Clock\\Counter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:23:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Clock\\Clock\\Clock.cs",
+              "RelativeDocumentMoniker": "Clock\\Clock.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Clock\\Clock\\Clock.cs",
+              "RelativeToolTip": "Clock\\Clock.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:23:52.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

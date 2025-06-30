@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\COS20007\\Projects\\Null\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C18B02B-B41D-4946-9C43-C52F00865995}|Null\\Null.csproj|c:\\cos20007\\projects\\null\\null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C18B02B-B41D-4946-9C43-C52F00865995}|Null\\Null.csproj|solutionrelative:null\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C18B02B-B41D-4946-9C43-C52F00865995}|Null\\Null.csproj|c:\\cos20007\\projects\\null\\null\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C18B02B-B41D-4946-9C43-C52F00865995}|Null\\Null.csproj|solutionrelative:null\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1062,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Null\\Null\\Counter.cs",
+              "RelativeDocumentMoniker": "Null\\Counter.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Null\\Null\\Counter.cs",
+              "RelativeToolTip": "Null\\Counter.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:09:29.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\Null\\Null\\Program.cs",
+              "RelativeDocumentMoniker": "Null\\Program.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\Null\\Null\\Program.cs",
+              "RelativeToolTip": "Null\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:08:50.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 833,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\COS20007\Projects\SplashKitDemo\bin\Debug\net9.0\SplashKitDemo.exe
+C:\COS20007\Projects\SplashKitDemo\bin\Debug\net9.0\SplashKitDemo.deps.json
+C:\COS20007\Projects\SplashKitDemo\bin\Debug\net9.0\SplashKitDemo.runtimeconfig.json
+C:\COS20007\Projects\SplashKitDemo\bin\Debug\net9.0\SplashKitDemo.dll
+C:\COS20007\Projects\SplashKitDemo\bin\Debug\net9.0\SplashKitDemo.pdb
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.AssemblyInfoInputs.cache
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.AssemblyInfo.cs
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.dll
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\refint\SplashKitDemo.dll
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.pdb
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\SplashKitDemo.genruntimeconfig.cache
+C:\COS20007\Projects\SplashKitDemo\obj\Debug\net9.0\ref\SplashKitDemo.dll

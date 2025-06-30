@@ -1,0 +1,14 @@
+C:\COS20007\Projects\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.exe
+C:\COS20007\Projects\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.deps.json
+C:\COS20007\Projects\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\COS20007\Projects\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.dll
+C:\COS20007\Projects\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.pdb
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.dll
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.pdb
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\COS20007\Projects\QueueApplication\QueueApplication\obj\Debug\net8.0\ref\QueueApplication.dll

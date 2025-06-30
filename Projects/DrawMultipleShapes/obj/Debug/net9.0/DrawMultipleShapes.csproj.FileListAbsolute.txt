@@ -1,0 +1,14 @@
+C:\COS20007\Projects\DrawMultipleShapes\bin\Debug\net9.0\DrawMultipleShapes.exe
+C:\COS20007\Projects\DrawMultipleShapes\bin\Debug\net9.0\DrawMultipleShapes.deps.json
+C:\COS20007\Projects\DrawMultipleShapes\bin\Debug\net9.0\DrawMultipleShapes.runtimeconfig.json
+C:\COS20007\Projects\DrawMultipleShapes\bin\Debug\net9.0\DrawMultipleShapes.dll
+C:\COS20007\Projects\DrawMultipleShapes\bin\Debug\net9.0\DrawMultipleShapes.pdb
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.AssemblyInfoInputs.cache
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.AssemblyInfo.cs
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.dll
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\refint\DrawMultipleShapes.dll
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.pdb
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\DrawMultipleShapes.genruntimeconfig.cache
+C:\COS20007\Projects\DrawMultipleShapes\obj\Debug\net9.0\ref\DrawMultipleShapes.dll

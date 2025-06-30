@@ -1,0 +1,14 @@
+C:\COS20007\Projects\SplashKitDemo\week1\week1\bin\Debug\net8.0\week1.exe
+C:\COS20007\Projects\SplashKitDemo\week1\week1\bin\Debug\net8.0\week1.deps.json
+C:\COS20007\Projects\SplashKitDemo\week1\week1\bin\Debug\net8.0\week1.runtimeconfig.json
+C:\COS20007\Projects\SplashKitDemo\week1\week1\bin\Debug\net8.0\week1.dll
+C:\COS20007\Projects\SplashKitDemo\week1\week1\bin\Debug\net8.0\week1.pdb
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.AssemblyInfoInputs.cache
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.AssemblyInfo.cs
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.dll
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\refint\week1.dll
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.pdb
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\week1.genruntimeconfig.cache
+C:\COS20007\Projects\SplashKitDemo\week1\week1\obj\Debug\net8.0\ref\week1.dll

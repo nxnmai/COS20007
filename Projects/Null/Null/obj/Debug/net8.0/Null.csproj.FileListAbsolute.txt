@@ -1,0 +1,14 @@
+C:\COS20007\Projects\Null\Null\bin\Debug\net8.0\Null.exe
+C:\COS20007\Projects\Null\Null\bin\Debug\net8.0\Null.deps.json
+C:\COS20007\Projects\Null\Null\bin\Debug\net8.0\Null.runtimeconfig.json
+C:\COS20007\Projects\Null\Null\bin\Debug\net8.0\Null.dll
+C:\COS20007\Projects\Null\Null\bin\Debug\net8.0\Null.pdb
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.AssemblyInfoInputs.cache
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.AssemblyInfo.cs
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.dll
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\refint\Null.dll
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.pdb
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\Null.genruntimeconfig.cache
+C:\COS20007\Projects\Null\Null\obj\Debug\net8.0\ref\Null.dll

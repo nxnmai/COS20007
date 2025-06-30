@@ -1,0 +1,14 @@
+C:\COS20007\Projects\task1.2P\task1.2P\bin\Debug\net8.0\task1.2P.exe
+C:\COS20007\Projects\task1.2P\task1.2P\bin\Debug\net8.0\task1.2P.deps.json
+C:\COS20007\Projects\task1.2P\task1.2P\bin\Debug\net8.0\task1.2P.runtimeconfig.json
+C:\COS20007\Projects\task1.2P\task1.2P\bin\Debug\net8.0\task1.2P.dll
+C:\COS20007\Projects\task1.2P\task1.2P\bin\Debug\net8.0\task1.2P.pdb
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.AssemblyInfoInputs.cache
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.AssemblyInfo.cs
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.dll
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\refint\task1.2P.dll
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.pdb
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\task1.2P.genruntimeconfig.cache
+C:\COS20007\Projects\task1.2P\task1.2P\obj\Debug\net8.0\ref\task1.2P.dll

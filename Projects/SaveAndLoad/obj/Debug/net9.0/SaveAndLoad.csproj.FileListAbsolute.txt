@@ -1,0 +1,14 @@
+C:\COS20007\Projects\SaveAndLoad\bin\Debug\net9.0\SaveAndLoad.exe
+C:\COS20007\Projects\SaveAndLoad\bin\Debug\net9.0\SaveAndLoad.deps.json
+C:\COS20007\Projects\SaveAndLoad\bin\Debug\net9.0\SaveAndLoad.runtimeconfig.json
+C:\COS20007\Projects\SaveAndLoad\bin\Debug\net9.0\SaveAndLoad.dll
+C:\COS20007\Projects\SaveAndLoad\bin\Debug\net9.0\SaveAndLoad.pdb
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.AssemblyInfoInputs.cache
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.AssemblyInfo.cs
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.dll
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\refint\SaveAndLoad.dll
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.pdb
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\SaveAndLoad.genruntimeconfig.cache
+C:\COS20007\Projects\SaveAndLoad\obj\Debug\net9.0\ref\SaveAndLoad.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\COS20007\\Projects\\DrawProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA34793-78D5-6272-D187-C5FD91DAF39F}|DrawProgram.csproj|c:\\cos20007\\projects\\drawprogram\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA34793-78D5-6272-D187-C5FD91DAF39F}|DrawProgram.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA34793-78D5-6272-D187-C5FD91DAF39F}|DrawProgram.csproj|c:\\cos20007\\projects\\drawprogram\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA34793-78D5-6272-D187-C5FD91DAF39F}|DrawProgram.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA34793-78D5-6272-D187-C5FD91DAF39F}|DrawProgram.csproj|c:\\cos20007\\projects\\drawprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA34793-78D5-6272-D187-C5FD91DAF39F}|DrawProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\DrawProgram\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\DrawProgram\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:18:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\DrawProgram\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\DrawProgram\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:14:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\COS20007\\Projects\\DrawProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\COS20007\\Projects\\DrawProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:12:13.442Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 833,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

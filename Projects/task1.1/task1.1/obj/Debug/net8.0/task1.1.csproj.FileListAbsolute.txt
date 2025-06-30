@@ -1,0 +1,14 @@
+C:\COS20007\Projects\task1.1\task1.1\bin\Debug\net8.0\task1.1.exe
+C:\COS20007\Projects\task1.1\task1.1\bin\Debug\net8.0\task1.1.deps.json
+C:\COS20007\Projects\task1.1\task1.1\bin\Debug\net8.0\task1.1.runtimeconfig.json
+C:\COS20007\Projects\task1.1\task1.1\bin\Debug\net8.0\task1.1.dll
+C:\COS20007\Projects\task1.1\task1.1\bin\Debug\net8.0\task1.1.pdb
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.AssemblyInfoInputs.cache
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.AssemblyInfo.cs
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.csproj.CoreCompileInputs.cache
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.dll
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\refint\task1.1.dll
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.pdb
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\task1.1.genruntimeconfig.cache
+C:\COS20007\Projects\task1.1\task1.1\obj\Debug\net8.0\ref\task1.1.dll
