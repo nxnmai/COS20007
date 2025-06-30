@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\github-project\\cos20007\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675C4604-90B0-492F-8F7C-FBD09A2D9AC2}|HelloWorld_Mai\\HelloWorld_Mai.csproj|f:\\github-project\\cos20007\\helloworld\\helloworld_mai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675C4604-90B0-492F-8F7C-FBD09A2D9AC2}|HelloWorld_Mai\\HelloWorld_Mai.csproj|solutionrelative:helloworld_mai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\github-project\\cos20007\\HelloWorld\\HelloWorld_Mai\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld_Mai\\Program.cs",
+              "ToolTip": "F:\\github-project\\cos20007\\HelloWorld\\HelloWorld_Mai\\Program.cs",
+              "RelativeToolTip": "HelloWorld_Mai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:46:56.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

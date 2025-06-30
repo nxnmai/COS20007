@@ -1,0 +1,14 @@
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\bin\Debug\net8.0\HelloWorld_Mai.exe
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\bin\Debug\net8.0\HelloWorld_Mai.deps.json
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\bin\Debug\net8.0\HelloWorld_Mai.runtimeconfig.json
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\bin\Debug\net8.0\HelloWorld_Mai.dll
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\bin\Debug\net8.0\HelloWorld_Mai.pdb
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.GeneratedMSBuildEditorConfig.editorconfig
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.AssemblyInfoInputs.cache
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.AssemblyInfo.cs
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.csproj.CoreCompileInputs.cache
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.dll
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\refint\HelloWorld_Mai.dll
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.pdb
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\HelloWorld_Mai.genruntimeconfig.cache
+F:\github-project\cos20007\HelloWorld\HelloWorld_Mai\obj\Debug\net8.0\ref\HelloWorld_Mai.dll
