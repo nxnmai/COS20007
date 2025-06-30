@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+      "projectUniqueName": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
       "projectName": "SwinAdventure",
-      "projectPath": "C:\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+      "projectPath": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\obj\\",
+      "outputPath": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
