@@ -16,6 +16,7 @@ namespace SwinAdventure.Tests
         private Bag _bag;
         private Item _coin;
         private LookCommand _lookCommand;
+        private Location _location;
 
         [SetUp]
         public void Setup()
@@ -25,6 +26,27 @@ namespace SwinAdventure.Tests
             _bag = new Bag(new string[] { "bag", "sack" }, "small bag", "A small leather bag");
             _coin = new Item(new string[] { "coin", "gold" }, "gold coin", "A shiny gold coin");
             _lookCommand = new LookCommand();
+            _location = new Location(new string[] { "room" }, "great hall", "A grand hall");
+            _player.Location = _location;
+        }
+
+        [Test]
+        public void TestLookAtLocation()
+        {
+            string[] command = { "look" };
+            string expected = "You are in great hall, A grand hall.\n";
+            string result = _lookCommand.Execute(_player, command);
+            Assert.That(result, Is.EqualTo(expected), "Should return the current location's description when player look");
+        }
+
+        [Test]
+        public void TestLookAtLocationWithItems()
+        {
+            _location.Inventory.Put(_gem);
+            string[] command = {"look" };
+            string expected = "You are in great hall, A grand hall.\nYou can see:\n\ta red gem (gem)\n";
+            string result = _lookCommand.Execute(_player, command);
+            Assert.That(result, Is.EqualTo(expected), "Should return the current location's description with items when player look");
         }
 
         [Test]
@@ -89,7 +111,6 @@ namespace SwinAdventure.Tests
         {
             string[][] invalidInputs = new string[][]
             {
-                new string[] { "look" },
                 new string[] { "look", "at" },
                 new string[] { "look", "at", "gem", "at", "bag" },
                 new string[] { "hello" },

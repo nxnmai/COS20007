@@ -29,8 +29,6 @@ namespace SwinAdventure
             return _identifiers.Contains(id.ToLower());
         }
 
-
-
         public void AddIdentifier(string id)
         {
             if (!string.IsNullOrEmpty(id))
