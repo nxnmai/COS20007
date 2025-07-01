@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SwinAdventure
 {
-    public class Location
+    public class Location : GameObject, IHaveInventory
     {
+        private Inventory _inventory;
+
+        public Location(string[])
+
     }
 }
