@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\identifiableobjecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\identifiableobjecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\locationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +55,8 @@
       "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\identifiableobjecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\identifiableobjecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\itemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\itemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure.tests\\gameobjecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C4B4847-4A98-40EE-9F4A-FB28CC4A17F4}|SwinAdventure.Tests\\SwinAdventure.Tests.csproj|solutionrelative:swinadventure.tests\\gameobjecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B55C7CA7-027F-4D0D-B47D-72CB489BF3A5}|SwinAdventure\\SwinAdventure.csproj|f:\\github-project\\cos20007\\projects\\swinadventure\\swinadventure\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,11 +90,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Player.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\Player.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Player.cs",
+              "RelativeToolTip": "SwinAdventure\\Player.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:48:54.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LocationTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\LocationTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\LocationTests.cs",
@@ -107,31 +121,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Location.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Location.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\Location.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Location.cs",
               "RelativeToolTip": "SwinAdventure\\Location.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAvwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T04:54:10.177Z"
+              "WhenOpened": "2025-07-01T04:54:10.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "LookCommandTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\LookCommandTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\LookCommandTests.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\LookCommandTests.cs",
               "RelativeToolTip": "SwinAdventure.Tests\\LookCommandTests.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAvwH4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAhwH4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T10:29:00.753Z"
+              "WhenOpened": "2025-06-09T10:29:00.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IHaveInventory.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\IHaveInventory.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\IHaveInventory.cs",
@@ -143,19 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "Item.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Item.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\Item.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Item.cs",
               "RelativeToolTip": "SwinAdventure\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:01:13.576Z"
+              "WhenOpened": "2025-06-02T08:01:13.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "BagTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\BagTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\BagTests.cs",
@@ -167,19 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "IdentifiableObject.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\IdentifiableObject.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\IdentifiableObject.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\IdentifiableObject.cs",
               "RelativeToolTip": "SwinAdventure\\IdentifiableObject.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:15:53.963Z"
+              "WhenOpened": "2025-05-20T07:15:53.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "InventoryTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\InventoryTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\InventoryTests.cs",
@@ -191,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "PlayerTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\PlayerTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\PlayerTests.cs",
@@ -204,19 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IdentifiableObjectTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\IdentifiableObjectTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\IdentifiableObjectTests.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\IdentifiableObjectTests.cs",
               "RelativeToolTip": "SwinAdventure.Tests\\IdentifiableObjectTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:11:10.115Z"
+              "WhenOpened": "2025-05-20T07:11:10.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ItemTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\ItemTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\ItemTests.cs",
@@ -229,30 +248,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Player.cs",
-              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Player.cs",
-              "RelativeDocumentMoniker": "SwinAdventure\\Player.cs",
-              "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Player.cs",
-              "RelativeToolTip": "SwinAdventure\\Player.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:48:54.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "GameObject.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\GameObject.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\GameObject.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\GameObject.cs",
               "RelativeToolTip": "SwinAdventure\\GameObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T07:21:46.05Z"
+              "WhenOpened": "2025-06-02T07:21:46.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "Inventory.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Inventory.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\Inventory.cs",
@@ -260,31 +268,34 @@
               "RelativeToolTip": "SwinAdventure\\Inventory.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwBEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:20:16.217Z"
+              "WhenOpened": "2025-06-02T08:20:16.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Bag.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Bag.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\Bag.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Bag.cs",
               "RelativeToolTip": "SwinAdventure\\Bag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:07:35.438Z"
+              "WhenOpened": "2025-06-04T05:07:35.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "LookCommand.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\LookCommand.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\LookCommand.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\LookCommand.cs",
               "RelativeToolTip": "SwinAdventure\\LookCommand.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAjwFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAhwA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T08:51:15.946Z"
+              "WhenOpened": "2025-06-09T08:51:15.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -300,13 +311,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Program.cs",
               "RelativeDocumentMoniker": "SwinAdventure\\Program.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure\\Program.cs",
               "RelativeToolTip": "SwinAdventure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T07:13:10.383Z",
               "EditorCaption": ""
@@ -325,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GameObjectTests.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SwinAdventure\\SwinAdventure.Tests\\GameObjectTests.cs",
               "RelativeDocumentMoniker": "SwinAdventure.Tests\\GameObjectTests.cs",

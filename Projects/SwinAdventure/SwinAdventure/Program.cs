@@ -24,6 +24,10 @@ namespace SwinAdventure
             Bag bag = new Bag(new string[] {"bag", "sack"}, "leather bag", "A small leather bag");
             player.Inventory.Put(bag);
 
+            Bag outerBag = new Bag(new string[] { "outerbag", "backpack" }, "outer bag", "A bigger bag");
+            outerBag.Inventory.Put(bag);
+            player.Inventory.Put(outerBag);
+
             Item shovel = new Item(new string[] {"shovel", "spade"}, "shovel", "A sturdy shovel");
             bag.Inventory.Put(shovel);
 

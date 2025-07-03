@@ -8,12 +8,12 @@ namespace SwinAdventure
 {
     public class Player : GameObject, IHaveInventory
     {
-        private Bag _inventory;
+        private Inventory _inventory;
         private Location _location;
 
-        public Player(string[] ids, string name, string desc) : base(ids, name, desc)
+        public Player(string[] ids, string name, string desc) : base(new string[] {"me", "inventory"}, name, desc)
         {
-            _inventory = new Bag(new string[] {"inventory", "inv"}, "inventory", "Your personal inventory");
+            _inventory = new Inventory();
             _location = null;   // Initialize location to null
         }
 
@@ -23,7 +23,7 @@ namespace SwinAdventure
             {
                 return this;
             }
-            GameObject item = _inventory.Locate(id);
+            GameObject item = _inventory.Fetch(id);
             if (item != null)
             {
                 return item;
@@ -39,7 +39,7 @@ namespace SwinAdventure
         {
             get
             {
-                return $"You are {Name}, {Description}.\nYou are carrying:\n{_inventory.FullDescription}";
+                return $"You are {Name}, {Description}.\nYou are carrying:\n{_inventory.ItemList}";
             }
         }
 
@@ -47,7 +47,7 @@ namespace SwinAdventure
         {
             get
             {
-                return _inventory.Inventory;
+                return _inventory;
             }
         }
 

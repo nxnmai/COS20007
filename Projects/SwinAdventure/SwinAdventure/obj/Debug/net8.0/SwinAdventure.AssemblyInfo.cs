@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwinAdventure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2c4f321937b92e80fae5b133aa4fd09f17eaf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e16cd3043e01befa10a8afaaed01f4b42a6e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwinAdventure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwinAdventure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
