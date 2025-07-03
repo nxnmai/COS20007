@@ -11,7 +11,7 @@ namespace SwinAdventure
         private Inventory _inventory;
         private Location _location;
 
-        public Player(string[] ids, string name, string desc) : base(new string[] {"me", "inventory"}, name, desc)
+        public Player(string[] ids, string name, string desc) : base(new string[] { "me", "inventory" }, name, desc)
         {
             _inventory = new Inventory();
             _location = null;   // Initialize location to null
