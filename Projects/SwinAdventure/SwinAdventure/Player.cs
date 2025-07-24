@@ -39,7 +39,34 @@ namespace SwinAdventure
         {
             get
             {
-                return $"You are {Name}, {Description}.\nYou are carrying:\n{_inventory.ItemList}";
+                StringBuilder desc = new StringBuilder();
+                desc.Append($"You are {Name}, {Description}.\nYou are carrying:\n{_inventory.ItemList}");
+                if (_location != null)
+                {
+                    desc.Append($"You are in {_location.Name}: {_location.FullDescription}");
+                    if (_location.LocatePath("north") != null || _location.LocatePath("south") != null ||
+                        _location.LocatePath("east") != null || _location.LocatePath("west") != null)
+                    {
+                        desc.Append("\nAvailable paths:");
+                        if (_location.LocatePath("north") != null)
+                        {
+                            desc.Append("\n\tnorth");
+                        }
+                        if (_location.LocatePath("south") != null)
+                        {
+                            desc.Append("\n\tsouth");
+                        }
+                        if (_location.LocatePath("east") != null)
+                        {
+                            desc.Append("\n\teast");
+                        }
+                        if (_location.LocatePath("west") != null)
+                        {
+                            desc.Append("\n\twest");
+                        }
+                    }
+                }
+                return desc.ToString();
             }
         }
 

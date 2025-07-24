@@ -16,6 +16,8 @@ namespace SwinAdventure.Tests
         private Item _item;
         private Item _shovel;
         private Item _sword;
+        private Location _northRoom;
+        private Path _northPath;
 
         [SetUp]
         public void Setup()
@@ -26,6 +28,9 @@ namespace SwinAdventure.Tests
             _location = new Location(new string[] { "room" }, "great hall", "A grand hall");
             _item = new Item(new string[] { "gem" }, "red gem", "A shiny red ruby");
             _location.Inventory.Put(_item);
+            _northRoom = new Location(new string[] { "northroom" }, "North Room", "A cold northern room");
+            _northPath = new Path(new string[] { "north" }, _northRoom);
+            _location.AddPath(_northPath);
             _player.Location = _location;
         }
 
@@ -83,6 +88,16 @@ namespace SwinAdventure.Tests
             _player.Inventory.Put(_sword);
             string expected = "You are Mai, the unhealthy programmer.\nYou are carrying:\nIn the inventory you can see: Your personal inventory.\n\ta shovel (shovel)\n\ta sword (sword)\n";
             Assert.That(expected, Is.EqualTo(_player.FullDescription), "Player's full description should include name, description, and inventory items");
+        }
+
+        [Test]
+        public void TestPlayerFullDescriptionAfterMove()
+        {
+            _player.Inventory.Put(_shovel);
+            _player.Inventory.Put(_sword);
+            _northPath.Move(_player);
+            string expected = "You are Mai, the unhealthy programmer.\nYou are carrying:\n\ta shovel (shovel)\n\ta sword (sword)\nYou are in North Room: You are in North Room, A cold northern room.\n";
+            Assert.That(_player.FullDescription, Is.EqualTo(expected), "Player's full description should update to new location after move.");
         }
     }
 }

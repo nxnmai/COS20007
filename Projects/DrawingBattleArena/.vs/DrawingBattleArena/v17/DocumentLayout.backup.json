@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\combatstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:combatstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\icombatshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:icombatshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|f:\\github-project\\cos20007\\projects\\drawingbattlearena\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92D8093-BE88-045D-5266-717D81650004}|DrawingBattleArena.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CombatStrategy.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\CombatStrategy.cs",
+              "RelativeDocumentMoniker": "CombatStrategy.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\CombatStrategy.cs",
+              "RelativeToolTip": "CombatStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:42:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICombatShape.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\ICombatShape.cs",
+              "RelativeDocumentMoniker": "ICombatShape.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\ICombatShape.cs",
+              "RelativeToolTip": "ICombatShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:41:58.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwFcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:31:25.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Bot.cs",
+              "RelativeDocumentMoniker": "Bot.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Bot.cs",
+              "RelativeToolTip": "Bot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:28:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:03:49.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Canvas.cs",
+              "RelativeDocumentMoniker": "Canvas.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Canvas.cs",
+              "RelativeToolTip": "Canvas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:33:37.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:15:01.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:34:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:55:41.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvy8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T02:15:05.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\ExtensionMethods.cs",
+              "RelativeToolTip": "ExtensionMethods.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:01:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "F:\\github-project\\COS20007\\Projects\\DrawingBattleArena\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:07:51.1Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 833,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

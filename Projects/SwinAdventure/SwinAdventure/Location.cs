@@ -10,10 +10,12 @@ namespace SwinAdventure
     public class Location : GameObject, IHaveInventory
     {
         private Inventory _inventory;
+        private List<Path> _paths;
 
         public Location(string[] ids, string name, string desc) : base(ids, name, desc)
         {
             _inventory = new Inventory();
+            _paths = new List<Path>();
         }
 
         public GameObject Locate(string id)
@@ -38,6 +40,23 @@ namespace SwinAdventure
                 }
                 return stringBuilder.ToString();
             }
+        }
+
+        public void AddPath(Path path)
+        {
+            _paths.Add(path);
+        }
+
+        public Path LocatePath(string id)
+        {
+            foreach (Path path in _paths)
+            {
+                if (path.AreYou(id))
+                {
+                    return path;
+                }
+            }
+            return null;
         }
 
         public Inventory Inventory

@@ -1,0 +1,15 @@
+F:\github-project\COS20007\Projects\DrawingBattleArena\bin\Debug\net9.0\DrawingBattleArena.exe
+F:\github-project\COS20007\Projects\DrawingBattleArena\bin\Debug\net9.0\DrawingBattleArena.deps.json
+F:\github-project\COS20007\Projects\DrawingBattleArena\bin\Debug\net9.0\DrawingBattleArena.runtimeconfig.json
+F:\github-project\COS20007\Projects\DrawingBattleArena\bin\Debug\net9.0\DrawingBattleArena.dll
+F:\github-project\COS20007\Projects\DrawingBattleArena\bin\Debug\net9.0\DrawingBattleArena.pdb
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.GeneratedMSBuildEditorConfig.editorconfig
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.AssemblyInfoInputs.cache
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.AssemblyInfo.cs
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.csproj.CoreCompileInputs.cache
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.sourcelink.json
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.dll
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\refint\DrawingBattleArena.dll
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.pdb
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\DrawingBattleArena.genruntimeconfig.cache
+F:\github-project\COS20007\Projects\DrawingBattleArena\obj\Debug\net9.0\ref\DrawingBattleArena.dll

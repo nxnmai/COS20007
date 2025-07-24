@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COS20007\\Projects\\SaveAndLoad\\SaveAndLoad.csproj",
+      "projectUniqueName": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\SaveAndLoad.csproj",
       "projectName": "SaveAndLoad",
-      "projectPath": "C:\\COS20007\\Projects\\SaveAndLoad\\SaveAndLoad.csproj",
+      "projectPath": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\SaveAndLoad.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\COS20007\\Projects\\SaveAndLoad\\obj\\",
+      "outputPath": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

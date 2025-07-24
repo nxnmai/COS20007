@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using SwinAdventure;
 
 namespace SwinAdventure
@@ -11,10 +12,13 @@ namespace SwinAdventure
             string name = Console.ReadLine();    // Use student name
             Console.WriteLine("Please enter your description:");
             string description = Console.ReadLine();     // Use student ID
-            Player player = new Player(new string[] { name, description}, name, description);
+            Player player = new Player(new string[] { "me", "inventory"}, name, description);
 
-            Location room = new Location(new string[] { "room", "hall" }, "great hall", "A grand hall with high ceilings");
-            player.Location = room;
+            Location greatHall = new Location(new string[] { "room", "hall" }, "great hall", "A grand hall with high ceilings");
+            Location northRoom = new Location(new string[] { "northroom" }, "north room", "A cold northern room");
+            Path northPath = new Path(new string[] { "north" }, northRoom);
+            greatHall.AddPath(northPath);
+            player.Location = greatHall;
 
             Item gem = new Item(new string[] {"gem", "ruby"}, "red gem", "A shiny red ruby");
             Item coin = new Item(new string[] { "coin", "gold" }, "gold coin", "A shiny gold coin");
@@ -22,8 +26,6 @@ namespace SwinAdventure
             player.Inventory.Put(coin);
 
             Bag bag = new Bag(new string[] {"bag", "sack"}, "leather bag", "A small leather bag");
-            player.Inventory.Put(bag);
-
             Bag outerBag = new Bag(new string[] { "outerbag", "backpack" }, "outer bag", "A bigger bag");
             outerBag.Inventory.Put(bag);
             player.Inventory.Put(outerBag);
@@ -32,12 +34,14 @@ namespace SwinAdventure
             bag.Inventory.Put(shovel);
 
             Item statue = new Item(new string[] { "statue", "figure" }, "stone statue", "A tall stone statue");
-            room.Inventory.Put(statue);
+            greatHall.Inventory.Put(statue);
 
             LookCommand lookCommand = new LookCommand();
+            MoveCommand moveCommand = new MoveCommand();
+
             while (true)
             {
-                Console.WriteLine("Enter a look command or type 'exit' to quit:");
+                Console.WriteLine("Enter a command or type 'exit' to quit:");
                 string input = Console.ReadLine();
                 string[] words = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
                 if (input.ToLower() == "exit")
@@ -47,7 +51,15 @@ namespace SwinAdventure
                 }
                 else
                 {
-                    string result = lookCommand.Execute(player, words);
+                    string result = "Invalid command.";
+                    if (lookCommand.AreYou(words[0]))
+                    {
+                        result = lookCommand.Execute(player, words);
+                    }
+                    else if (moveCommand.AreYou(words[0]))
+                    {
+                        result = moveCommand.Execute(player, words);
+                    }
                     Console.WriteLine(result);
                 }    
             }

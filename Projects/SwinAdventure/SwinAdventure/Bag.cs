@@ -10,7 +10,7 @@ namespace SwinAdventure
     {
         private Inventory _inventory;
 
-        public Bag(string[] ids, string name, string desc) : base(new string[] {"bag", "mybag"}, name, desc)
+        public Bag(string[] ids, string name, string desc) : base(ids, name, desc)
         {
             _inventory = new Inventory();
         }
