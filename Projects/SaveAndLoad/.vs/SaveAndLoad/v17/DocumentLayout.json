@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|f:\\github-project\\cos20007\\projects\\saveandload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|f:\\github-project\\cos20007\\projects\\saveandload\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|solutionrelative:extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|f:\\github-project\\cos20007\\projects\\saveandload\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|f:\\github-project\\cos20007\\projects\\saveandload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C00E3B7-E0C9-16F3-ADF7-75A61F78FAC6}|SaveAndLoad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ExtensionMethods.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\ExtensionMethods.cs",
               "RelativeDocumentMoniker": "ExtensionMethods.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "ExtensionMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:06:51.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T09:06:51.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Shape.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:58:42.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:58:42.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyRectangle.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\MyRectangle.cs",
               "RelativeDocumentMoniker": "MyRectangle.cs",
@@ -76,12 +74,11 @@
               "RelativeToolTip": "MyRectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:58:26.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:58:26.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MyLine.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\MyLine.cs",
               "RelativeDocumentMoniker": "MyLine.cs",
@@ -89,12 +86,11 @@
               "RelativeToolTip": "MyLine.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:58:12.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:58:12.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyCircle.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\MyCircle.cs",
               "RelativeDocumentMoniker": "MyCircle.cs",
@@ -102,12 +98,11 @@
               "RelativeToolTip": "MyCircle.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:55.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:57:55.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Drawing.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\Drawing.cs",
               "RelativeDocumentMoniker": "Drawing.cs",
@@ -115,18 +110,17 @@
               "RelativeToolTip": "Drawing.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAwwGUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:40.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:57:40.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\SaveAndLoad\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwGEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwGgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T08:51:01.597Z",
               "EditorCaption": ""

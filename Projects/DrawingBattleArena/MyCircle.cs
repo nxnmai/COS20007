@@ -1,44 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SplashKitSDK;
-using System.IO;
+﻿using SplashKitSDK;
 
 namespace DrawingBattleArena
 {
     public class MyCircle : Shape
     {
-        private int _radius;
+        private const int _radius = 50;
 
         public MyCircle() : base(0.0f, 0.0f, Color.Red)
         {
-            _radius = 112;
+
         }
 
         public override void Draw()
         {
-            SplashKit.FillCircle(Color, X, Y, _radius);
+            if (Selected)
+            {
+                DrawOutline();
+            }
+            SplashKit.FillCircle(Color.Red, X, Y, _radius);
         }
 
         public override bool IsAt(Point2D pt)
         {
-            double distance = Math.Sqrt(Math.Pow(pt.X - X, 2) + Math.Pow(pt.Y - Y, 2));
-            return distance <= _radius;
+            return SplashKit.PointInCircle(pt, SplashKit.CircleAt(X, Y, _radius));
         }
 
-        public override void SaveTo(StreamWriter writer)
+        public override void DrawOutline()
         {
-            writer.WriteLine("Circle");
-            base.SaveTo(writer);
-            writer.WriteLine(_radius);
-        }
-
-        public override void LoadFrom(StreamReader reader)
-        {
-            base.LoadFrom(reader);
-            Radius = reader.ReadInteger();
+            SplashKit.DrawCircle(Color.Black, X, Y, _radius + 2);
         }
 
         public int Radius
@@ -47,14 +36,6 @@ namespace DrawingBattleArena
             {
                 return _radius;
             }
-            set
-            {
-                _radius = value;
-            }
-        }
-
-        public void PerformAction()
-        {
         }
     }
 }

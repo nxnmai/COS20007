@@ -1,78 +1,94 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SplashKitSDK;
-using System.IO;
-
-namespace DrawingBattleArena
+﻿namespace DrawingBattleArena
 {
     public class Bot
     {
-        private int _inkPoints; 
         private int _baseHealth;
-        private Canvas _canvas;
+        private int _inkPoints;
+        private Random _random;
+        private double _attackFrequency;
 
-        public Bot(Canvas canvas)
+        public Bot()
         {
-            _canvas = canvas;
-            _inkPoints = 100; 
-            _baseHealth = 500; 
+            _baseHealth = 500;
+            _inkPoints = 100;
+            _random = new Random();
+            _attackFrequency = 3.0;
         }
 
-        public void DrawShape()
+        public Shape CreateRandomShape()
         {
-            int choice = SplashKit.Rnd(3);
-            if (choice == 0 && CanDraw(10))
+            ShapeType[] types = { ShapeType.Rectangle, ShapeType.Circle, ShapeType.Line, ShapeType.Triangle };
+            ShapeType type = types[_random.Next(types.Length)];
+            int cost = type switch
             {
-                MyRectangle rect = new MyRectangle();
-                rect.X = SplashKit.Rnd(600);
-                rect.Y = SplashKit.Rnd(400);
-                _canvas.AddShape(rect);
-                _inkPoints -= 10;
+                ShapeType.Triangle => 5,
+                ShapeType.Circle => 10,
+                ShapeType.Rectangle => 15,
+                ShapeType.Line => 20,
+                _ => 0
+            };
+
+            if (_inkPoints < cost)
+            {
+                return null;
             }
-            else if (choice == 1 && CanDraw(15))
+
+            Shape shape = type switch
             {
-                MyCircle circle = new MyCircle();
-                circle.X = SplashKit.Rnd(600);
-                circle.Y = SplashKit.Rnd(400);
-                _canvas.AddShape(circle);
-                _inkPoints -= 15;
+                ShapeType.Triangle => new MyTriangle(),
+                ShapeType.Rectangle => new MyRectangle(),
+                ShapeType.Circle => new MyCircle(),
+                ShapeType.Line => new MyLine(),
+                _ => null
+            };
+
+            if (shape != null)
+            {
+                _inkPoints -= cost;
+                if (type == ShapeType.Circle)
+                {
+                    shape.X = (float)_random.NextDouble() * 400;
+                }
+                else
+                {
+                    shape.X = 400 + (float)_random.NextDouble() * 400;
+                }
+
+                shape.Y = (float)_random.NextDouble() * 600;
+
+                if (shape is MyLine line)
+                {
+                    line.EndX = line.X;
+                    line.EndY = line.Y + 100;
+                }
+                shape.Owner = this;
             }
-            else if (choice == 2 && CanDraw(20))
+            return shape;
+        }
+
+        public void PerformAttack(Canvas canvas)
+        {
+            Shape shape = CreateRandomShape();
+            if (shape != null)
             {
-                MyLine line = new MyLine();
-                line.X = SplashKit.Rnd(600);
-                line.Y = SplashKit.Rnd(400);
-                _canvas.AddShape(line);
-                _inkPoints -= 20;
+                canvas.AddShape(shape);
             }
         }
 
-        public bool CanDraw(int inkCost)
+        public void UpdateInk(int amount)
         {
-            return _inkPoints >= inkCost;
-        }
-
-        public void TakeDamage(int damage)
-        {
-            _baseHealth -= damage;
-            if (_baseHealth < 0)
+            _inkPoints += amount;
+            if (_inkPoints < 0)
             {
-                _baseHealth = 0;
+                _inkPoints = 0;
             }
         }
 
-        public int InkPoints
+        public void Update(string eventType, object data)
         {
-            get
+            if (eventType == "BotFrenzy")
             {
-                return _inkPoints;
-            }
-            set
-            {
-                _inkPoints = value;
+                _attackFrequency *= (double)data;
             }
         }
 
@@ -88,11 +104,23 @@ namespace DrawingBattleArena
             }
         }
 
-        public Canvas Canvas
+        public int InkPoints
         {
             get
             {
-                return _canvas;
+                return _inkPoints;
+            }
+            set
+            {
+                _inkPoints = value;
+            }
+        }
+
+        public double AttackFrequency
+        { 
+            get
+            {
+                return _attackFrequency;
             }
         }
     }

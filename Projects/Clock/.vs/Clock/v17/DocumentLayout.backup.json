@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|f:\\github-project\\cos20007\\projects\\clock\\clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|f:\\github-project\\cos20007\\projects\\clock\\clock\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|f:\\github-project\\cos20007\\projects\\clock\\clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D814746-621D-4D5B-B82B-211AF4968847}|Clock\\Clock.csproj|solutionrelative:clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DFF6582-1211-4CEC-84E1-7925FD7AB252}|Clock.Test\\Clock.Test.csproj|f:\\github-project\\cos20007\\projects\\clock\\clock.test\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,35 +64,34 @@
               "RelativeDocumentMoniker": "Clock\\Program.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\Clock\\Clock\\Program.cs",
               "RelativeToolTip": "Clock\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T08:22:25.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Counter.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\Clock\\Clock\\Counter.cs",
               "RelativeDocumentMoniker": "Clock\\Counter.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\Clock\\Clock\\Counter.cs",
               "RelativeToolTip": "Clock\\Counter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T08:23:08.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Clock.cs",
               "DocumentMoniker": "F:\\github-project\\COS20007\\Projects\\Clock\\Clock\\Clock.cs",
               "RelativeDocumentMoniker": "Clock\\Clock.cs",
               "ToolTip": "F:\\github-project\\COS20007\\Projects\\Clock\\Clock\\Clock.cs",
               "RelativeToolTip": "Clock\\Clock.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:23:52.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T08:23:52.449Z"
             }
           ]
         },

@@ -30,7 +30,7 @@ namespace Clock
             //Display the total physical memory size allocated for the current process
             Console.WriteLine("Physical memory usage: {0} bytes", proc.WorkingSet64);
 
-            // Display peak memory statistics for the process.
+            // Display peak memory statistics for the process
             Console.WriteLine("Peak physical memory usage {0} bytes", proc.PeakWorkingSet64);
         }
     }

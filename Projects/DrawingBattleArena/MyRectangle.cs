@@ -1,27 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SplashKitSDK;
-using System.IO;
+﻿using SplashKitSDK;
 
 namespace DrawingBattleArena
 {
-    public class MyRectangle : Shape, ICombatShape
+    public class MyRectangle : Shape
     {
-        private int _width;
-        private int _height;
+        private const int _width = 100;
+        private const int _height = 100;
+        private int _health;
 
         public MyRectangle() : base(0.0f, 0.0f, Color.Green)
         {
-            _width = 200;
-            _height = 200;
+            _health = 40;
         }
 
         public override void Draw()
         {
-            SplashKit.FillRectangle(Color, X, Y, _width, _height);
+            if (Selected)
+            {
+                DrawOutline();
+            }
+            SplashKit.FillRectangle(Color.Green, X, Y, _width, _height);
+        }
+
+        public override void DrawOutline()
+        {
+            SplashKit.DrawRectangle(Color.Black, X - 2, Y - 2, _width + 4, _height + 4);
         }
 
         public override bool IsAt(Point2D pt)
@@ -30,35 +33,11 @@ namespace DrawingBattleArena
                    pt.Y >= Y && pt.Y <= Y + _height;
         }
 
-        public override void SaveTo(StreamWriter writer)
-        {
-            writer.WriteLine("Rectangle");
-            base.SaveTo(writer);
-            writer.WriteLine(_width);
-            writer.WriteLine(_height);
-        }
-
-        public override void LoadFrom(StreamReader reader)
-        {
-            base.LoadFrom(reader);
-            _width = reader.ReadInteger();
-            _height = reader.ReadInteger();
-        }
-
-        public void PerformAction()
-        {
-
-        }
-
         public int Width
         {
             get
             {
                 return _width;
-            }
-            set
-            {
-                _width = value;
             }
         }
 
@@ -68,9 +47,17 @@ namespace DrawingBattleArena
             {
                 return _height;
             }
+        }
+
+        public int Health
+        {
+            get
+            {
+                return _health;
+            }
             set
             {
-                _height = value;
+                _health = value;
             }
         }
     }

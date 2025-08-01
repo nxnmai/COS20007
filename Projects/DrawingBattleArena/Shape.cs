@@ -1,10 +1,4 @@
 ﻿using SplashKitSDK;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
 
 namespace DrawingBattleArena
 {
@@ -12,31 +6,23 @@ namespace DrawingBattleArena
     {
         private float _x, _y;
         private Color _color;
+        private bool _selected;
+        private int _health;
 
         public Shape(float x, float y, Color color)
         {
             _x = x;
             _y = y;
             _color = color;
+            _selected = false;
+            _health = 20; // Default health value
         }
 
         public abstract void Draw();
 
         public abstract bool IsAt(Point2D pt);
-                
-        public virtual void SaveTo(StreamWriter writer)
-        {
-            writer.WriteColor(Color);
-            writer.WriteLine(X);
-            writer.WriteLine(Y);
-        }
 
-        public virtual void LoadFrom(StreamReader reader)
-        {
-            Color = reader.ReadColor();
-            X = reader.ReadSingle();
-            Y = reader.ReadSingle();
-        }
+        public abstract void DrawOutline();
 
         public float X
         {
@@ -62,15 +48,33 @@ namespace DrawingBattleArena
             }
         }
 
-        public Color Color
+        public bool Selected
         {
             get
             {
-                return _color;
+                return _selected;
             }
             set
             {
-                _color = value;
+                _selected = value;
+            }
+        }
+
+        public object Owner
+        {
+            get;
+            set;
+        }
+
+        public int Health
+        {
+            get
+            {
+                return _health;
+            }
+            set
+            {
+                _health = value;
             }
         }
     }

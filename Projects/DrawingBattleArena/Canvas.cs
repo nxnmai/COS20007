@@ -1,22 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using SplashKitSDK;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SplashKitSDK;
-using System.IO;
 
 namespace DrawingBattleArena
 {
     public class Canvas
     {
         private List<Shape> _shapes;
-        private Color _background;
+        private readonly Color _background = Color.White;
+        private SplashKitSDK.Timer _moveCooldownTimer;
+        private bool _canMoveShapes;
 
         public Canvas()
         {
             _shapes = new List<Shape>();
-            _background = SplashKit.ColorWhite();
+            _moveCooldownTimer = SplashKit.CreateTimer("moveCooldown");
+            _canMoveShapes = true;
         }
 
         public void AddShape(Shape shape)
@@ -36,64 +34,73 @@ namespace DrawingBattleArena
             {
                 shape.Draw();
             }
-            SplashKit.RefreshScreen();
+            SplashKit.DrawLine(Color.Black, 400, 0, 400, 600);
         }
 
-        public void SaveTo(StreamWriter writer)
+        public void SelectShapesAt(Point2D pt)
         {
-            writer.WriteLine(_shapes.Count);
             foreach (Shape shape in _shapes)
             {
-                if (shape is MyRectangle)
-                {
-                    writer.WriteLine("Rectangle");
-                }
-                else if (shape is MyCircle)
-                {
-                    writer.WriteLine("Circle");
-                }
-                else if (shape is MyLine)
-                {
-                    writer.WriteLine("Line");
-                }
-                shape.SaveTo(writer);
+                shape.Selected = shape.IsAt(pt);
             }
         }
 
-        public void LoadFrom(StreamReader reader)
+        public void HandleShapeMovement()
         {
-            _shapes.Clear();
-            int shapeCount = reader.ReadInteger();
-            for (int i = 0; i < shapeCount; i++)
+            if (!_canMoveShapes)
             {
-                string shapeType = reader.ReadLine();
-                Shape shape = null;
-                if (shapeType == "Rectangle")
+                if (SplashKit.TimerTicks(_moveCooldownTimer) / 1000.0f >= 5.0f)
                 {
-                    shape = new MyRectangle();
+                    _canMoveShapes = true;
+                    SplashKit.ResetTimer(_moveCooldownTimer);
                 }
-                else if (shapeType == "Circle")
+                return;
+            }
+
+            if (SplashKit.MouseClicked(MouseButton.LeftButton))
+            {
+                SelectShapesAt(SplashKit.MousePosition());
+            }
+
+            if (SplashKit.MouseDown(MouseButton.LeftButton))
+            {
+                foreach (Shape shape in _shapes)
                 {
-                    shape = new MyCircle();
+                    if (shape.Selected)
+                    {
+                        Point2D mousePos = SplashKit.MousePosition();
+                        shape.X = (float)mousePos.X;
+                        shape.Y = (float)mousePos.Y;
+                        if (shape is MyLine line)
+                        {
+                            float dx = (float)mousePos.X - line.X;
+                            float dy = (float)mousePos.Y - line.Y;
+                            line.EndX = line.X + dx * (line.EndX - line.X) / 100;
+                            line.EndY = line.Y + dy * (line.EndY - line.Y) / 100;
+                        }
+                    }
                 }
-                else if (shapeType == "Line")
+            }
+
+            if (SplashKit.MouseUp(MouseButton.LeftButton) && _shapes.Any(s => s.Selected))
+            {
+                _canMoveShapes = false;
+                SplashKit.StartTimer(_moveCooldownTimer);
+                foreach (Shape shape in _shapes)
                 {
-                    shape = new MyLine();
-                }
-                if (shape != null)
-                {
-                    shape.LoadFrom(reader);
-                    _shapes.Add(shape);
+                    shape.Selected = false;
                 }
             }
         }
 
-        public List<Shape> Shapes
+        public List<Shape> GetAllShapes()
         {
-            get
-            {
-                return _shapes;
-            }
+            return new List<Shape>(_shapes);
+        }
+
+        public List<Shape> SelectedShapes()
+        {
+            return _shapes.FindAll(s => s.Selected);
         }
 
         public Color Background
@@ -101,10 +108,6 @@ namespace DrawingBattleArena
             get
             {
                 return _background;
-            }
-            set
-            {
-                _background = value;
             }
         }
     }

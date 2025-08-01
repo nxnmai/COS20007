@@ -39,6 +39,10 @@ namespace SwinAdventure
             LookCommand lookCommand = new LookCommand();
             MoveCommand moveCommand = new MoveCommand();
 
+            CommandProcessor processor = new CommandProcessor();
+            processor.AddCommand(lookCommand);
+            processor.AddCommand(moveCommand);
+
             while (true)
             {
                 Console.WriteLine("Enter a command or type 'exit' to quit:");
@@ -51,15 +55,7 @@ namespace SwinAdventure
                 }
                 else
                 {
-                    string result = "Invalid command.";
-                    if (lookCommand.AreYou(words[0]))
-                    {
-                        result = lookCommand.Execute(player, words);
-                    }
-                    else if (moveCommand.AreYou(words[0]))
-                    {
-                        result = moveCommand.Execute(player, words);
-                    }
+                    string result = processor.Execute(player, words);
                     Console.WriteLine(result);
                 }    
             }

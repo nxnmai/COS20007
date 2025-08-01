@@ -1,111 +1,110 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SplashKitSDK;
-using System.IO;
+﻿using SplashKitSDK;
 
 namespace DrawingBattleArena
 {
-    public class Player
+    public class Player : IObserver
     {
         private int _inkPoints;
         private int _baseHealth;
-        private Canvas _canvas;
+        private ShapeUpgrade _shapeUpgrade;
 
-        public Player(Canvas canvas)
+        public Player()
         {
-            _canvas = canvas;
             _inkPoints = 100;
             _baseHealth = 500;
+            _shapeUpgrade = new ShapeUpgrade();
         }
 
-        public bool DrawRectangle()
+        public Shape CreateShape(ShapeType shapeType, ShapeConfig config = null)
         {
-            if (_inkPoints >= 10)
+            int cost = shapeType switch
             {
-                MyRectangle rect = new MyRectangle();
-                rect.X = SplashKit.MouseX();
-                rect.Y = SplashKit.MouseY();
-                _canvas.AddShape(rect);
-                _inkPoints -= 10;
-                return true;
+                ShapeType.Triangle => 5,
+                ShapeType.Circle => 10,
+                ShapeType.Rectangle => 15,
+                ShapeType.Line => 20,
+                _ => 0
+            };
+
+            if (_inkPoints < cost)
+            {
+                return null;
             }
-            return false;
+
+            _inkPoints -= cost;
+
+            return shapeType switch
+            {
+                ShapeType.Rectangle => new MyRectangle(),
+                ShapeType.Circle => new MyCircle(),
+                ShapeType.Line => new MyLine(),
+                ShapeType.Triangle => new MyTriangle(),
+                _ => null
+            };
         }
 
-        public bool DrawCircle()
+        public void PlaceShape(Shape shape, Canvas canvas, Point2D position)
         {
-            if (_inkPoints >= 15)
+            if (shape != null)
             {
-                MyCircle circle = new MyCircle();
-                circle.X = SplashKit.MouseX();
-                circle.Y = SplashKit.MouseY();
-                _canvas.AddShape(circle);
-                _inkPoints -= 15;
-                return true;
+                shape.X = (float)position.X;
+                shape.Y = (float)position.Y;
+                if (shape is MyLine line)
+                {
+                    line.EndX = line.X;
+                    line.EndY = line.Y + 100;
+                }
+                shape.Owner = this;
+                canvas.AddShape(shape);
             }
-            return false;
         }
 
-        public bool DrawLine()
+        public void UpdateInk(int amount)
         {
-            if (_inkPoints >= 20)
+            _inkPoints += amount;
+            if (_inkPoints < 0)
             {
-                MyLine line = new MyLine();
-                line.X = SplashKit.MouseX();
-                line.Y = SplashKit.MouseY();
-                _canvas.AddShape(line);
-                _inkPoints -= 20;
-                return true;
+                _inkPoints = 0;
             }
-            return false;
         }
 
-        public bool CanDraw(int inkCost)
+        public void Update(string eventType, object data)
         {
-            return _inkPoints >= inkCost;
-        }
-
-        public void TakeDamage(int damage)
-        {
-            _baseHealth -= damage;
-            if (_baseHealth < 0)
+            if (eventType == "InkSurge")
             {
-                _baseHealth = 0;
+                _inkPoints = (int)(_inkPoints * (double)data);
             }
         }
 
         public int InkPoints
         {
-            get 
-            { 
-                return _inkPoints; 
+            get
+            {
+                return _inkPoints;
             }
-            set 
-            { 
-                _inkPoints = value; 
+            set
+            {
+                _inkPoints = value;
             }
         }
 
         public int BaseHealth
         {
-            get 
-            { 
-                return _baseHealth; 
+            get
+            {
+                return _baseHealth;
             }
-            set 
-            { 
-                _baseHealth = value; 
+            set
+            {
+                _baseHealth = value;
             }
         }
 
-        public Canvas Canvas
+        public ShapeUpgrade ShapeUpgrade
         {
             get
             {
-                return _canvas;
+                return _shapeUpgrade;
             }
         }
     }

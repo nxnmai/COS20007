@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrawMultipleShapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6415c8c4199fe05161e91c4e337a2fa5a58a3118")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrawMultipleShapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrawMultipleShapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

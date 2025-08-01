@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DrawingBattleArena
+﻿namespace DrawingBattleArena
 {
     public enum ShapeType
     {
         Rectangle,
         Circle,
-        Line
+        Line,
+        Triangle
     }
 }
